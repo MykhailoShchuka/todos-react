@@ -4,7 +4,7 @@ This is a to-do list application with the ability to track progress written usin
 
 The web application is adapted for both desktop and touchscreen devices.
 
-[DEMO LINK](https://mykhailoshchuka.github.io/react_todo-app/)
+[DEMO LINK](https://mykhailoshchuka.github.io/todos-react/)
 
 ## Description
 
